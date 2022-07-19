@@ -1,5 +1,5 @@
 # EQBot
-Autonomous EQBot for earthquake location
+Autonomous earthquake robot (EQBot) for earthquake location
 
 There are three files.
 
