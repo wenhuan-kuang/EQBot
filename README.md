@@ -9,6 +9,6 @@ There are three files.
 
 3, the demo of EQBot named as "Demo.zip". You can find it in "Releases" (to the right of this webpage).
 
-Please strickly follow the user manual to install and run the demo.
+Please strictly follow the user manual to install and run the demo.
 
 Contact me at: kuangwh@ustc.edu.cn
